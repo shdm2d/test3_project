@@ -1,0 +1,28 @@
+h1 {
+  color: red;
+  font-size: 50px;
+}
+
+h2 {
+  color: red;
+  font-size: 30px;
+}
+
+.block {
+  background-color: black;
+}
+
+.block_color {
+  background-color: white;
+}
+
+.block_color button {
+  display: block;
+  margin: 0 auto;
+  width: 250px;
+  height: 250px;
+  background-color: yellow;
+  font-size: 50px;
+  color: red;
+}
+/*# sourceMappingURL=style.min.css.map */

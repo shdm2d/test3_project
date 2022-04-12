@@ -1,0 +1,40 @@
+/* line 10, C:/Users/Dmitriy/Desktop/web/test2_project/src/sass/style.sass */
+h1 {
+  color: red;
+  font-size: 50px;
+}
+
+/* line 13, C:/Users/Dmitriy/Desktop/web/test2_project/src/sass/style.sass */
+h2 {
+  color: red;
+  font-size: 30px;
+}
+
+/* line 17, C:/Users/Dmitriy/Desktop/web/test2_project/src/sass/style.sass */
+.block {
+  background-color: black;
+}
+
+/* line 19, C:/Users/Dmitriy/Desktop/web/test2_project/src/sass/style.sass */
+.block_color {
+  background-color: white;
+}
+
+/* line 21, C:/Users/Dmitriy/Desktop/web/test2_project/src/sass/style.sass */
+.block_color button {
+  display: block;
+  margin: 0 auto;
+  width: 250px;
+  height: 250px;
+  background-color: yellow;
+  font-size: 50px;
+  color: red;
+}
+
+/* line 25, C:/Users/Dmitriy/Desktop/web/test2_project/src/sass/style.sass */
+.block h3 {
+  color: red;
+  font-size: 40px;
+}
+
+/*# sourceMappingURL=style.css.map */
